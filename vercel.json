@@ -1,0 +1,8 @@
+{
+  "experimentalServices": {
+    "vigilo-backend": {
+      "entrypoint": "vigilo-backend",
+      "routePrefix": "/"
+    }
+  }
+}
